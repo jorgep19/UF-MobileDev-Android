@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W2app</string>
+    <string name="ssn">SSN</string>
+    <string name="name">Name</string>
+    <string name="income">Income</string>
+    <string name="w_2_form">W-2 Form</string>
+    <string name="submit">Submit</string>
+</resources>
